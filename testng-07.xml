@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Public/java programs/Selenium 4th August/ATB14XAPIAutomationPrograms">
+        <classes>
+            <class name="ex_03_TestNG_AllureReport.APITesting_Lab07_TestCase">
+            </class>
+        </classes>
+    </test>
+</suite>

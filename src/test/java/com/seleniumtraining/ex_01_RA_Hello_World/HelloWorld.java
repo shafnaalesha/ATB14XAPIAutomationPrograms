@@ -1,4 +1,4 @@
-package com.seleniumtraining.ex_01_RA_HelloWorld;
+package com.seleniumtraining.ex_01_RA_Hello_World;
 import io.restassured.RestAssured;
 public class HelloWorld {
     public static void main(String[] args) {
