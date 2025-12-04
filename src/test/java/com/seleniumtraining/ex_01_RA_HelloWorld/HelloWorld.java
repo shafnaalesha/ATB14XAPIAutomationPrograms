@@ -6,4 +6,5 @@ public class HelloWorld {
                 .when().get()
                 .then().statusCode(200).log().all();
     }
+
 }
