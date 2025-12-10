@@ -1,4 +1,4 @@
-package ex_03_TestNG_AllureReport;
+package com.seleniumtraining.ex_03_TestNG_AllureReport;
 
 import org.testng.annotations.Test;
 public class APITesting_Lab07_TestCase {

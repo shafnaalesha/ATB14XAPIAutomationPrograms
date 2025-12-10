@@ -1,4 +1,4 @@
-package ex_04_RestAssured_HTTP_methods.ex_01_GET;
+package com.seleniumtraining.ex_04_RestAssured_HTTP_methods.ex_01_GET;
 
 import io.restassured.RestAssured;
 import org.testng.annotations.Test;

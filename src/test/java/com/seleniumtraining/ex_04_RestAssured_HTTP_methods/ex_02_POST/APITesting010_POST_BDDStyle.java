@@ -1,4 +1,4 @@
-package ex_04_RestAssured_HTTP_methods.ex_02_POST;
+package com.seleniumtraining.ex_04_RestAssured_HTTP_methods.ex_02_POST;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
