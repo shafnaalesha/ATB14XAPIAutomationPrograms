@@ -1,0 +1,26 @@
+package com.seleniumtraining.ex_07_PayloadManagement.POJO.ManualWay.Response;
+import com.seleniumtraining.ex_07_PayloadManagement.POJO.ManualWay.Request.Booking;
+import java.util.LinkedHashMap;
+import java.util.Map;
+public class BookingResponse {
+    private Integer bookingid;
+    private Booking booking;
+
+    public Integer getBookingid() {
+        return bookingid;
+    }
+
+    public void setBookingid(Integer bookingid) {
+        this.bookingid = bookingid;
+    }
+
+    public Booking getBooking() {
+        return booking;
+    }
+
+    public void setBooking(Booking booking) {
+        this.booking = booking;
+    }
+
+
+}
